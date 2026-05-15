@@ -1,0 +1,33 @@
+﻿Date,Shipping_Route,Daily_Vessels_Passed,Avg_Freight_Rate_USD_per_TEU,Capacity_Utilization_Percent,Days_Delay_Average,Insurance_Premium_Increase_Percent
+01-04-2026,Strait of Hormuz,15,1741.66,95,0,0
+01-04-2026,Suez Canal,12,1745.48,95,0,0
+01-04-2026,Panama Canal,8,1674.66,95,0,0
+01-04-2026,Malacca Strait,10,1270.12,95,0,0
+02-04-2026,Strait of Hormuz,14.2,1930.09,70,0.5,8
+02-04-2026,Suez Canal,11.8,2079.2,85,0.5,8
+02-04-2026,Panama Canal,7.9,2303.72,90,0.5,8
+02-04-2026,Malacca Strait,9.7,1995.61,80,0.5,8
+03-04-2026,Strait of Hormuz,13.5,1518.98,50,1,16
+03-04-2026,Suez Canal,11.5,2001.36,75,1,16
+03-04-2026,Panama Canal,7.8,2260.66,85,1,16
+03-04-2026,Malacca Strait,9.4,2235.34,65,1,16
+04-04-2026,Strait of Hormuz,12.8,1818.72,50,1.5,24
+04-04-2026,Suez Canal,11.3,2260.81,65,1.5,24
+04-04-2026,Panama Canal,7.8,1982.43,80,1.5,24
+04-04-2026,Malacca Strait,9.1,1812.51,50,1.5,24
+05-04-2026,Strait of Hormuz,12,2442.66,50,2,32
+05-04-2026,Suez Canal,11,2664.5,55,2,32
+05-04-2026,Panama Canal,7.7,2298.6,75,2,32
+05-04-2026,Malacca Strait,8.8,2537.25,50,2,32
+06-04-2026,Strait of Hormuz,11.2,2781.18,50,2.5,40
+06-04-2026,Suez Canal,10.8,2212.04,50,2.5,40
+06-04-2026,Panama Canal,7.6,2770.66,70,2.5,40
+06-04-2026,Malacca Strait,8.5,2298.82,50,2.5,40
+07-04-2026,Strait of Hormuz,10.5,2414.98,50,3,48
+07-04-2026,Suez Canal,10.6,2116.46,50,3,48
+07-04-2026,Panama Canal,7.5,2259.8,65,3,48
+07-04-2026,Malacca Strait,8.2,2307.96,50,3,48
+08-04-2026,Strait of Hormuz,9.8,2303.05,50,3.5,56
+08-04-2026,Suez Canal,10.3,3243.43,50,3.5,56
+08-04-2026,Panama Canal,7.4,3228.52,60,3.5,56
+08-04-2026,Malacca Strait,7.9,2737.45,50,3.5,56

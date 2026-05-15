@@ -1,0 +1,97 @@
+﻿Date,Country,Fuel_Price_Per_Liter_USD,Currency,Days_Since_Crisis_Start,Crisis_Phase
+01-04-2026,USA,3.45,USD,0,Pre-Crisis
+02-04-2026,USA,3.51,USD,1,Pre-Crisis
+03-04-2026,USA,3.56,USD,2,Pre-Crisis
+04-04-2026,USA,3.62,USD,3,Pre-Crisis
+05-04-2026,USA,3.67,USD,4,Escalation
+06-04-2026,USA,3.73,USD,5,Escalation
+07-04-2026,USA,3.78,USD,6,Escalation
+08-04-2026,USA,3.83,USD,7,Peak
+01-04-2026,India,96.72,INR,0,Pre-Crisis
+02-04-2026,India,98.69,INR,1,Pre-Crisis
+03-04-2026,India,100.65,INR,2,Pre-Crisis
+04-04-2026,India,102.62,INR,3,Pre-Crisis
+05-04-2026,India,104.59,INR,4,Escalation
+06-04-2026,India,106.55,INR,5,Escalation
+07-04-2026,India,108.52,INR,6,Escalation
+08-04-2026,India,110.48,INR,7,Peak
+01-04-2026,UK,5.42,USD,0,Pre-Crisis
+02-04-2026,UK,5.51,USD,1,Pre-Crisis
+03-04-2026,UK,5.61,USD,2,Pre-Crisis
+04-04-2026,UK,5.71,USD,3,Pre-Crisis
+05-04-2026,UK,5.8,USD,4,Escalation
+06-04-2026,UK,5.89,USD,5,Escalation
+07-04-2026,UK,5.99,USD,6,Escalation
+08-04-2026,UK,6.08,USD,7,Peak
+01-04-2026,Germany,5.89,USD,0,Pre-Crisis
+02-04-2026,Germany,5.97,USD,1,Pre-Crisis
+03-04-2026,Germany,6.05,USD,2,Pre-Crisis
+04-04-2026,Germany,6.13,USD,3,Pre-Crisis
+05-04-2026,Germany,6.21,USD,4,Escalation
+06-04-2026,Germany,6.28,USD,5,Escalation
+07-04-2026,Germany,6.36,USD,6,Escalation
+08-04-2026,Germany,6.44,USD,7,Peak
+01-04-2026,China,5.12,USD,0,Pre-Crisis
+02-04-2026,China,5.2,USD,1,Pre-Crisis
+03-04-2026,China,5.29,USD,2,Pre-Crisis
+04-04-2026,China,5.37,USD,3,Pre-Crisis
+05-04-2026,China,5.45,USD,4,Escalation
+06-04-2026,China,5.53,USD,5,Escalation
+07-04-2026,China,5.62,USD,6,Escalation
+08-04-2026,China,5.7,USD,7,Peak
+01-04-2026,Japan,5.34,USD,0,Pre-Crisis
+02-04-2026,Japan,5.42,USD,1,Pre-Crisis
+03-04-2026,Japan,5.51,USD,2,Pre-Crisis
+04-04-2026,Japan,5.59,USD,3,Pre-Crisis
+05-04-2026,Japan,5.67,USD,4,Escalation
+06-04-2026,Japan,5.76,USD,5,Escalation
+07-04-2026,Japan,5.84,USD,6,Escalation
+08-04-2026,Japan,5.93,USD,7,Peak
+01-04-2026,Brazil,4.78,USD,0,Pre-Crisis
+02-04-2026,Brazil,4.85,USD,1,Pre-Crisis
+03-04-2026,Brazil,4.92,USD,2,Pre-Crisis
+04-04-2026,Brazil,4.99,USD,3,Pre-Crisis
+05-04-2026,Brazil,5.06,USD,4,Escalation
+06-04-2026,Brazil,5.13,USD,5,Escalation
+07-04-2026,Brazil,5.2,USD,6,Escalation
+08-04-2026,Brazil,5.27,USD,7,Peak
+01-04-2026,Canada,3.12,USD,0,Pre-Crisis
+02-04-2026,Canada,3.18,USD,1,Pre-Crisis
+03-04-2026,Canada,3.23,USD,2,Pre-Crisis
+04-04-2026,Canada,3.29,USD,3,Pre-Crisis
+05-04-2026,Canada,3.34,USD,4,Escalation
+06-04-2026,Canada,3.4,USD,5,Escalation
+07-04-2026,Canada,3.45,USD,6,Escalation
+08-04-2026,Canada,3.5,USD,7,Peak
+01-04-2026,Australia,4.95,USD,0,Pre-Crisis
+02-04-2026,Australia,5.03,USD,1,Pre-Crisis
+03-04-2026,Australia,5.12,USD,2,Pre-Crisis
+04-04-2026,Australia,5.2,USD,3,Pre-Crisis
+05-04-2026,Australia,5.29,USD,4,Escalation
+06-04-2026,Australia,5.37,USD,5,Escalation
+07-04-2026,Australia,5.45,USD,6,Escalation
+08-04-2026,Australia,5.54,USD,7,Peak
+01-04-2026,UAE,1.85,USD,0,Pre-Crisis
+02-04-2026,UAE,1.86,USD,1,Pre-Crisis
+03-04-2026,UAE,1.87,USD,2,Pre-Crisis
+04-04-2026,UAE,1.88,USD,3,Pre-Crisis
+05-04-2026,UAE,1.89,USD,4,Escalation
+06-04-2026,UAE,1.89,USD,5,Escalation
+07-04-2026,UAE,1.9,USD,6,Escalation
+08-04-2026,UAE,1.91,USD,7,Peak
+01-04-2026,Saudi Arabia,1.78,USD,0,Pre-Crisis
+02-04-2026,Saudi Arabia,1.79,USD,1,Pre-Crisis
+03-04-2026,Saudi Arabia,1.81,USD,2,Pre-Crisis
+04-04-2026,Saudi Arabia,1.82,USD,3,Pre-Crisis
+05-04-2026,Saudi Arabia,1.83,USD,4,Escalation
+06-04-2026,Saudi Arabia,1.85,USD,5,Escalation
+07-04-2026,Saudi Arabia,1.86,USD,6,Escalation
+08-04-2026,Saudi Arabia,1.88,USD,7,Peak
+01-04-2026,Pakistan,82.34,PKR,0,Pre-Crisis
+02-04-2026,Pakistan,87.18,PKR,1,Pre-Crisis
+03-04-2026,Pakistan,92.01,PKR,2,Pre-Crisis
+04-04-2026,Pakistan,96.85,PKR,3,Pre-Crisis
+05-04-2026,Pakistan,101.69,PKR,4,Escalation
+06-04-2026,Pakistan,106.52,PKR,5,Escalation
+07-04-2026,Pakistan,111.36,PKR,6,Escalation
+08-04-2026,Pakistan,116.19,PKR,7,Peak
