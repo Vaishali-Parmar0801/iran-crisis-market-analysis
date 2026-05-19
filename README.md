@@ -105,6 +105,23 @@ FROM iran_war_global_crisis.global_fuel_prices
 
 ---
 
+## 📂 Data Source
+
+The datasets used in this project were collected from publicly available sources on Kaggle.
+
+- 🌍 Crisis & Market datasets: Kaggle.com
+- 📊 Data includes:
+  - Crude Oil Prices
+  - Global Fuel Prices
+  - Stock Market Data
+  - Shipping/Freight Rates
+  - Currency Exchange Rates
+  - News Sentiment Data
+
+> Note: The datasets were cleaned, transformed, and integrated for educational and portfolio analysis purposes.
+
+---
+
 ## 🚀 How To Run
 
 ### Python Notebook
