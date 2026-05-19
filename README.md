@@ -1,4 +1,4 @@
-# 🌍 Iran Crisis — Global Market Impact Analysis
+# 🌍 Iran Crisis - Global Market Impact Analysis
 > An end-to-end data analytics project tracking the geopolitical 
 > impact of the Iran Crisis (April 1–8, 2026) across 6 global 
 > market dimensions using Excel, SQL, Python, and Power BI.
